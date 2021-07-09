@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "demo-bower": "https://github.com/trankhacnam/asset_user.git"
+    "user_assets": "https://github.com/trankhacnam/user_assets.git"
   }
 }
